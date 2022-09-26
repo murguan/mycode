@@ -1,4 +1,4 @@
-# mycode2
+# mycode
 Alta3 Sept 2022 tracking my code
 # mycode (Project Title)
 
