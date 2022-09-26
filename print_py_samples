@@ -1,0 +1,33 @@
+>>> print(42)
+42
+>>> print("192.168.30.5", "A1:02:CC:04", "255.255.255.0")
+192.168.30.5 A1:02:CC:04 255.255.255.0
+>>> a=3.14
+>>> print("a = ", a)
+a =  3.14
+>>> print("a = \n", a)
+a = 
+ 3.14
+>>> print("a", "b")
+a b
+>>> print("a","b", sep="")
+ab
+>>> print(192,168,178,42,sep=".")
+192.168.178.42
+>>> print("a","b", sep=":)")
+a:)b
+>>> print("I am thinking", end="... ... ... \n")
+I am thinking... ... ... 
+>>> print("I am thinking", end="!!!")
+I am thinking!!!>>> 
+>>> 
+KeyboardInterrupt
+>>> print("I am thinking", end="!!!"\n")
+  File "<stdin>", line 1
+    print("I am thinking", end="!!!"\n")
+                                       ^
+SyntaxError: unexpected character after line continuation character
+>>> print("I am thinking", end="!!!\n")
+I am thinking!!!
+>>> exit
+Use exit() or Ctrl-D (i.e. EOF) to exit
