@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # mycode2
+=======
+# mycode
+>>>>>>> a6044c617d6ed7bad83101a598fbd76f6ca085c4
 Alta3 Sept 2022 tracking my code
 # mycode (Project Title)
 
