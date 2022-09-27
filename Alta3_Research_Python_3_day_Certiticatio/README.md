@@ -5,8 +5,7 @@
 Alta3 Sept 2022 tracking my code
 # my_py_cert_lab (Project Title)
 
-One Paragraph of your project description goes here. Describe what you're trying to do.
-What is the purpose of putting up this repo?
+My first solo python program
 
 ## Getting Started
 
