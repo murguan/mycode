@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """ Author:  Anthony Murguia 
-    Purpose: Inertacive program to guess the kind of pet I have""" 
+    Purpose: Interactive program to guess the kind of pet I have""" 
 
 def main():
     """ Main program """
