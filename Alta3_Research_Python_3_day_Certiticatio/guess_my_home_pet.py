@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" Author:  Anthny Murguia 
+""" Author:  Anthony Murguia 
     Purpose: Inertacive program to guess the kind of pet I have""" 
 
 def main():
