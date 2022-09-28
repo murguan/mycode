@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
-""" Anthny Murguia 
-       Inertacive program to guess the kind of pet I have""" 
+""" Author:  Anthny Murguia 
+    Purpose: Inertacive program to guess the kind of pet I have""" 
 
 def main():
+    """ Main program """
     round = 0                                    # integer initiated to zero
     while True:                                  # sets infinite loop condition
         round = round + 1                        # Increase the round counter
